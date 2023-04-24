@@ -2,6 +2,8 @@
 
 Welcome to Chaofan's Github home page!
 
+If you are looking for Slay the Spire related repositories, they are moved to [chaofan-stsmods](https://github.com/orgs/chaofan-stsmods/repositories?type=source).
+
 [![Chaofan's github stats](https://github-readme-stats.vercel.app/api?username=herbix)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=herbix&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
